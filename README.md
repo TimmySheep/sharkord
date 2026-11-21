@@ -1,3 +1,22 @@
+<!--readme-header-->
+<p align="center">
+  <img src="apps/client/public/icon-512.png" width="128" alt="Sharkord icon">
+</p>
+
+<h1 align="center">Sharkord</h1>
+
+<p align="center">
+  <b>轻量自托管的语音 / 文字 / 屏幕共享聊天服务器</b><br>
+  <sub>Lightweight self-hosted chat server with voice, video and screen sharing</sub>
+</p>
+
+<p align="center"><img alt="platform" src="https://img.shields.io/badge/platform-Self-hosted-2F81F7?logo=docker&logoColor=white"><img alt="license" src="https://img.shields.io/github/license/TimmySheep/sharkord?label=license&color=green"></p>
+
+<p align="center"><sub>Fork of <a href="https://github.com/Sharkord/sharkord">Sharkord/sharkord</a></sub></p>
+
+---
+<!--/readme-header-->
+
 <div align="center">
   <h1>Sharkord</h1>
   <p><strong>A lightweight, self-hosted real-time communication platform</strong></p>
